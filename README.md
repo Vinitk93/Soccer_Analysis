@@ -1,6 +1,6 @@
 # Soccer_Analysis
 
-## Stepwise Implementation of the Project
+## Implementation of the Project is mentioned below:
 
 Step 1: Importing the packages: numpy, pandas, sqlite3, matplotlib
 
